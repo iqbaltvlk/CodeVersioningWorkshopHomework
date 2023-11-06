@@ -1,0 +1,1 @@
+Merging is a process to combine one branch to the other
