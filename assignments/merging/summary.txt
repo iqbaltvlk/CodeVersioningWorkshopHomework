@@ -1,1 +1,2 @@
-Merging is a process to combine one branch to the other
+Merging is a process to combine one branch to the other.
+One of the use case for using merging is updating the main branch with one branch, isolated from the main branch, containing updated codes which are developed & tested carefully.
