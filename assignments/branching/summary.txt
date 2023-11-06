@@ -1,1 +1,2 @@
-Branching is able to separate code updates from many coworkers or if many developments should be done in parallel, using different branches, hence conflicts could be avoided since each branch serve distinct version of the code
+Branching is able to separate code updates from many coworkers or if many developments should be done in parallel.
+Using different branches, hence conflicts could be avoided since each branch serve distinct version of the code.
